@@ -60,7 +60,7 @@
     - [2019-05-21](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-05/2019-05-21/DRDS-2019-05-21.md)
         - [jmap dump内存](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-05/2019-05-21/DRDS-2019-05-21.md#dump内存)
         - [jstack查看栈](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-05/2019-05-21/DRDS-2019-05-21.md#查看栈)
-        - [如果在睡觉时等流控制命令，以及条件判断相关](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-05/2019-05-21/DRDS-2019-05-21.md#流控制命令)
+        - [if while for sleep等流控制命令，以及条件判断相关](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-05/2019-05-21/DRDS-2019-05-21.md#流控制命令)
         - [| tee> 2>＆1 / dev / null输出信息管理](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-05/2019-05-21/DRDS-2019-05-21.md#输出信息管理)
         - [sysbench](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-05/2019-05-21/DRDS-2019-05-21.md#sysbench)
         - [安装mysql8](https://www.cnblogs.com/wlwl/p/9686809.html)
