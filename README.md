@@ -83,4 +83,6 @@
         - [详细讲解各个事务隔离级别与优缺点最好用生活化的语言描述、举例。](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-01/DRDS-2019-07-01.md#事务隔离级别)
         - [死锁的根本原因是什么；怎么处理死锁；怎么规避死锁](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-01/DRDS-2019-07-01.md#死锁)
         - [二段锁](https://segmentfault.com/a/1190000012513286)
+    - [2019-07-04](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-04/DRDS-2019-07-04.md)
+        - [多版本视图是什么；有什么作用和意义；和事务隔离级别有什么关联。](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-04/DRDS-2019-07-04.md#多版本视图)
 ---
