@@ -85,4 +85,6 @@
         - [二段锁](https://segmentfault.com/a/1190000012513286)
     - [2019-07-04](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-04/DRDS-2019-07-04.md)
         - [多版本视图是什么；有什么作用和意义；和事务隔离级别有什么关联。](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-04/DRDS-2019-07-04.md#多版本视图)
+    - [2019-07-08](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-08/DRDS-2019-07-08.md)
+        - [两阶段提交、分布式事务](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-08/DRDS-2019-07-08.md#两阶段提交、分布式事务)    
 ---
