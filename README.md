@@ -91,3 +91,12 @@
         - [事务的概念](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-10/DRDS-2019-07-10.md#事务的概念)
         - [B+树](https://blog.csdn.net/qq_26222859/article/details/80631121)
 ---
+## 致谢
+如果你希望被添加到这个名单中，并且提交过 Issue 或者 PR，请与我联系。  
+
+<a href="https://github.com/Dagon0577">
+    <img src="https://avatars0.githubusercontent.com/u/31436836?s=460&v=4" width="75px">
+</a>
+<a href="https://github.com/origin">
+    <img src="https://avatars0.githubusercontent.com/u/16187777?s=460&v=4" width="75px">
+</a>
