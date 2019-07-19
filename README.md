@@ -90,6 +90,15 @@
     - [2019-07-10](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-10/DRDS-2019-07-10.md)
         - [事务的概念](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-10/DRDS-2019-07-10.md#事务的概念)
         - [B+树](https://blog.csdn.net/qq_26222859/article/details/80631121)
+    - [2019-07-11](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-11/DRDS-2019-07-11.md)
+        - [如何在bios中打开虚拟化功能](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-11/DRDS-2019-07-11.md#如何在bios中打开虚拟化功能)
+        - [复制一个虚拟机](https://blog.csdn.net/pengpengpeng85/article/details/76382927)
+        - [虚拟机添加新硬盘](https://blog.csdn.net/zzq900503/article/details/80322220)
+        - [在字符界面，格式化多添加的单独硬盘为xfs格式，并挂载到/data目录](https://blog.csdn.net/kjsayn/article/details/52996313)
+    - [2019-07-19](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-19/DRDS-2019-07-19.md)
+        - [mysqldump做完整备份](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-19/DRDS-2019-07-19.md#mysqldump做完整备份)
+        - [mysqldump备份的恢复](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-19/DRDS-2019-07-19.md#mysqldump备份的恢复)
+        - [备份binlog文件以便做增量恢复](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-19/DRDS-2019-07-19.md备份binlog文件以便做增量恢复)
 ---
 ## 致谢
 如果你希望被添加到这个名单中，并且提交过 Issue 或者 PR，请与我联系。  
