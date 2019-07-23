@@ -99,6 +99,8 @@
         - [mysqldump做完整备份](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-19/DRDS-2019-07-19.md#mysqldump做完整备份)
         - [mysqldump备份的恢复](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-19/DRDS-2019-07-19.md#mysqldump备份的恢复)
         - [备份binlog文件以便做增量恢复](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-19/DRDS-2019-07-19.md备份binlog文件以便做增量恢复)
+    - [2019-07-23](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-23/DRDS-2019-07-23.md)
+        - [mysqldump的备份+binlog进行增量恢复](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-23/DRDS-2019-07-23.md#mysqldump的备份+binlog进行增量恢复)    
 ---
 ## 致谢
 如果你希望被添加到这个名单中，并且提交过 Issue 或者 PR，请与我联系。  
