@@ -102,7 +102,12 @@
     - [2019-07-23](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-23/DRDS-2019-07-23.md)
         - [mysqldump的备份+binlog进行增量恢复](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-23/DRDS-2019-07-23.md#mysqldump的备份+binlog进行增量恢复)
     - [2019-07-25](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-25/DRDS-2019-07-25.md)
-        - [mysql主从复制常见问题及解决](https://dev.mysql.com/doc/refman/8.0/en/replication-problems.html)    
+        - [mysql主从复制常见问题及解决](https://dev.mysql.com/doc/refman/8.0/en/replication-problems.html)
+    - [2019-07-29](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-29/DRDS-2019-07-29.md)
+        - [InnoDB存储引擎层和binlog之间的分布式事务问题，MySQL是怎样解决的。](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-29/DRDS-2019-07-29.md#分布式事务问题)
+        - [理解WAL](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-29/DRDS-2019-07-29.md#理解WAL)
+        - [半同步复制](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-29/DRDS-2019-07-29.md#半同步复制)
+        - [用主库的备份建立复制从机](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html#mysqldump-replication-options)    
 ---
 ## 致谢
 如果你希望被添加到这个名单中，并且提交过 Issue 或者 PR，请与我联系。  
