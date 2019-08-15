@@ -108,6 +108,14 @@
         - [理解WAL](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-29/DRDS-2019-07-29.md#理解WAL)
         - [半同步复制](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-29/DRDS-2019-07-29.md#半同步复制)
         - [用主库的备份建立复制从机](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html#mysqldump-replication-options)    
+    - [2019-08-15](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-08/2019-08-15/DRDS-2019-08-15.md)
+        - [各个数据类型的范围、存储空间占用、限制](https://dev.mysql.com/doc/refman/8.0/en/storage-requirements.html)
+        - [各个数据类型修饰符的含义与使用](#https://dev.mysql.com/doc/refman/8.0/en/data-types.html)
+        - [字符集和校对集的概念。如何让MySQL区分大小写，如何操作字符集转换。](https://dev.mysql.com/doc/refman/8.0/en/charset-database.html)
+        - [MySQL存储字符集、数据库字符集、连接字符集各自的概念，及其在各不相同时的转换处理流程。](https://dev.mysql.com/doc/refman/8.0/en/charset-database.html)
+        - [时区在MySQL里的调整设置](https://dev.mysql.com/doc/refman/8.0/en/time-zone-support.html)
+        - [各个权限的含义与管控范围。](https://dev.mysql.com/doc/refman/8.0/en/privileges-provided.html)
+        - [授权的相关操作。](https://dev.mysql.com/doc/refman/8.0/en/privileges-provided.html)
 ---
 ## 致谢
 如果你希望被添加到这个名单中，并且提交过 Issue 或者 PR，请与我联系。  
