@@ -116,6 +116,12 @@
         - [时区在MySQL里的调整设置](https://dev.mysql.com/doc/refman/8.0/en/time-zone-support.html)
         - [各个权限的含义与管控范围。](https://dev.mysql.com/doc/refman/8.0/en/privileges-provided.html)
         - [授权的相关操作。](https://dev.mysql.com/doc/refman/8.0/en/privileges-provided.html)
+    - [2019-08-26](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-08/2019-08-26/DRDS-2019-08-26.md)
+        - [autocommit和隐式提交是什么；效果是什么](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-08/2019-08-26/DRDS-2019-08-26.md#autocommit和隐式提交是什么；效果是什么)
+        - [锁和MVCC的原理和实现](https://blog.csdn.net/whoamiyang/article/details/51901888)
+        - [创建并使用lvm](https://www.linuxidc.com/Linux/2018-05/152608.htm)
+        - [一开始只划分部分磁盘空间使用，然后再在不重启服务器的情况下扩展空间](https://blog.csdn.net/zhengwei125/article/details/53928061)
+        - [修改sshd配置从而加快ssh连接速度；关闭iptables；关闭selinux](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-08/2019-08-26/DRDS-2019-08-26.md#修改sshd配置从而加快ssh连接速度)
 ---
 ## 致谢
 如果你希望被添加到这个名单中，并且提交过 Issue 或者 PR，请与我联系。  
