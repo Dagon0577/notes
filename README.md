@@ -1,6 +1,6 @@
-#  study notes 📘
+#  study notes 📝
 
-## Dagon-目录
+## Dagon 📌 
 
 - 2019-05
     - [2019-05-05](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-05/2019-05-05/DRDS-2019-05-05.md)
@@ -107,7 +107,8 @@
         - [InnoDB存储引擎层和binlog之间的分布式事务问题，MySQL是怎样解决的。](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-29/DRDS-2019-07-29.md#分布式事务问题)
         - [理解WAL](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-29/DRDS-2019-07-29.md#理解WAL)
         - [半同步复制](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-07/2019-07-29/DRDS-2019-07-29.md#半同步复制)
-        - [用主库的备份建立复制从机](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html#mysqldump-replication-options)    
+        - [用主库的备份建立复制从机](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html#mysqldump-replication-options)
+- 2019-08    
     - [2019-08-15](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-08/2019-08-15/DRDS-2019-08-15.md)
         - [各个数据类型的范围、存储空间占用、限制](https://dev.mysql.com/doc/refman/8.0/en/storage-requirements.html)
         - [各个数据类型修饰符的含义与使用](https://dev.mysql.com/doc/refman/8.0/en/data-types.html)
@@ -122,6 +123,15 @@
         - [创建并使用lvm](https://www.linuxidc.com/Linux/2018-05/152608.htm)
         - [一开始只划分部分磁盘空间使用，然后再在不重启服务器的情况下扩展空间](https://blog.csdn.net/zhengwei125/article/details/53928061)
         - [修改sshd配置从而加快ssh连接速度；关闭iptables；关闭selinux](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-08/2019-08-26/DRDS-2019-08-26.md#修改sshd配置从而加快ssh连接速度)
+
+## Ori 📌
+- TODO
+
+## Adamsandwich 📌
+- TODO
+
+## Thorn 📌
+- TODO
 ---
 ## 致谢
 如果你希望被添加到这个名单中，并且提交过 Issue 或者 PR，请与我联系。  
@@ -134,4 +144,7 @@
 </a>
 <a href="https://github.com/adamsandwich">
     <img src="https://avatars3.githubusercontent.com/u/19149439?s=400&v=4" width="75px">
+</a>
+<a href="https://github.com/vagrantgrapefruit">
+    <img src="https://avatars1.githubusercontent.com/u/30333101?s=400&v=4" width="75px">
 </a>
