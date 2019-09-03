@@ -123,6 +123,9 @@
         - [创建并使用lvm](https://www.linuxidc.com/Linux/2018-05/152608.htm)
         - [一开始只划分部分磁盘空间使用，然后再在不重启服务器的情况下扩展空间](https://blog.csdn.net/zhengwei125/article/details/53928061)
         - [修改sshd配置从而加快ssh连接速度；关闭iptables；关闭selinux](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-08/2019-08-26/DRDS-2019-08-26.md#修改sshd配置从而加快ssh连接速度)
+- 2019-09
+    - [2019-09-03](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-03/DRDS-2019-09-03.md)
+        - [学习管理命令mkfs.xfs、mkfs.ext4、resize2fs、 swapon、swapoff、uptime、uname、ulimit、sysctl netstat、wget](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-03/DRDS-2019-09-03.md#学习管理命令)
 
 ## Ori 📌
 - TODO
