@@ -128,6 +128,8 @@
         - [学习管理命令mkfs.xfs、mkfs.ext4、resize2fs、 swapon、swapoff、uptime、uname、ulimit、sysctl netstat、wget](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-03/DRDS-2019-09-03.md#学习管理命令)
     - [2019-09-06](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-06/DRDS-2019-09-06.md)
         - [定时任务的配置与开机启动的配置](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-06/DRDS-2019-09-06.md#定时任务的配置与开机启动的配置)
+    - [2019-09-09](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-09/DRDS-2019-09-09.md)
+        - [学习mysql、mysqladmin、mysqldump、perror等MySQL客户端命令](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-09/DRDS-2019-09-09.md#学习mysql等MySQL客户端命令)
 
 ## Ori 📌
 - TODO
