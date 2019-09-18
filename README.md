@@ -130,6 +130,10 @@
         - [定时任务的配置与开机启动的配置](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-06/DRDS-2019-09-06.md#定时任务的配置与开机启动的配置)
     - [2019-09-09](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-09/DRDS-2019-09-09.md)
         - [学习mysql、mysqladmin、mysqldump、perror等MySQL客户端命令](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-09/DRDS-2019-09-09.md#学习mysql等MySQL客户端命令)
+    - [2019-09-17](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-17/DRDS-2019-09-17.md)
+        - [MySQL启动、关闭、开机自启动配置](https://dev.mysql.com/doc/refman/8.0/en/mysql-server.html)
+        - [binlog内容的解析与查看](https://blog.csdn.net/king_kgh/article/details/74833539)
+        - [GTID的概念；掌握GTID在备份恢复时的影响](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-17/DRDS-2019-09-17.md#GTID的概念（需要知道不连续的GTID是有问题的，应当要由DBA处理）；掌握GTID在备份恢复时的影响)
 
 ## Ori 📌
 - TODO
