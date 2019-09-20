@@ -134,6 +134,11 @@
         - [MySQL启动、关闭、开机自启动配置](https://dev.mysql.com/doc/refman/8.0/en/mysql-server.html)
         - [binlog内容的解析与查看](https://blog.csdn.net/king_kgh/article/details/74833539)
         - [GTID的概念；掌握GTID在备份恢复时的影响](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-17/DRDS-2019-09-17.md#GTID的概念（需要知道不连续的GTID是有问题的，应当要由DBA处理）；掌握GTID在备份恢复时的影响)
+    - [2019-09-19](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-19/DRDS-2019-09-19.md)
+        - [MySQL Group Replication的架构。掌握MGR的原理及其安装部署和使用。](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-19/DRDS-2019-09-19.md#MGR)
+        - [掌握用从机的备份建立另一个从机](https://blog.51cto.com/634871/1364141)
+        - [5.6或更老版本默认配置的test库授权要如何回收。](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-19/DRDS-2019-09-19.md#5.6或更老版本默认配置的test库授权要如何回收。)
+        - [空账号是怎么回事。](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-19/DRDS-2019-09-19.md#空账号是怎么回事。)
 
 ## Ori 📌
 - TODO
