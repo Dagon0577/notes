@@ -139,6 +139,8 @@
         - [掌握用从机的备份建立另一个从机](https://blog.51cto.com/634871/1364141)
         - [5.6或更老版本默认配置的test库授权要如何回收。](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-19/DRDS-2019-09-19.md#5.6或更老版本默认配置的test库授权要如何回收。)
         - [空账号是怎么回事。](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-19/DRDS-2019-09-19.md#空账号是怎么回事。)
+    - [2019-09-23](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-23/DRDS-2019-09-23.md)
+        - [账号匹配是怎么回事，优先级和规则是什么。](https://dev.mysql.com/doc/refman/8.0/en/connection-access.html)
 
 ## Ori 📌
 - TODO
