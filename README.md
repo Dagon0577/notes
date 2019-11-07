@@ -141,15 +141,6 @@
         - [空账号是怎么回事。](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-19/DRDS-2019-09-19.md#空账号是怎么回事。)
     - [2019-09-23](https://github.com/Dagon0577/notes/blob/master/studyNotes/2019-09/2019-09-23/DRDS-2019-09-23.md)
         - [账号匹配是怎么回事，优先级和规则是什么。](https://dev.mysql.com/doc/refman/8.0/en/connection-access.html)
-
-## Ori 📌
-- TODO
-
-## Adamsandwich 📌
-- TODO
-
-## Thorn 📌
-- TODO
 ---
 ## 致谢
 如果你希望被添加到这个名单中，并且提交过 Issue 或者 PR，请与我联系。  
@@ -162,7 +153,4 @@
 </a>
 <a href="https://github.com/adamsandwich">
     <img src="https://avatars3.githubusercontent.com/u/19149439?s=400&v=4" width="75px">
-</a>
-<a href="https://github.com/vagrantgrapefruit">
-    <img src="https://avatars1.githubusercontent.com/u/30333101?s=400&v=4" width="75px">
 </a>
